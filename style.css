@@ -1,0 +1,157 @@
+a {
+    text-decoration: none;
+}
+
+.uul {
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    gap: 0 80px;
+    margin-right: 50px;
+    
+
+}
+.buttons {
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    outline: none;
+    color: black;
+}
+
+.Contact {
+    font-size: x-large;
+}
+
+.poi {
+    display:flex
+}
+
+.asd {
+    flex: 1;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    background-image: url(Notebook.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+
+.poiu1 {
+    flex: 1;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    background-image: url(Gtec.jpg);
+    background-size: cover;
+
+}
+.poiu2 {
+    flex: 1;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    background-image: url(Gluegun.jpg);
+    background-size: cover;
+}
+.poiu3 {
+    flex: 1;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    background-image: url(Oilpastel.jpg);
+    background-size: cover;
+}
+.poiu4 {
+    flex: 1;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    background-image: url(Coloredpaper.jpg);
+    background-size: cover;
+}
+
+img {
+
+    border-radius: 50%;
+    margin: 20px;
+    height: 170px;
+    border-color: black;
+    border-style: solid; color: black;
+}
+
+body {
+
+
+    background-image: url(Paint.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.page {
+    text-align: right;
+    margin-right: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 300%;
+    font-style: italic;
+}
+
+.A {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 150%;
+}
+.B {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 125%;
+}
+
+.C {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100%;
+    margin-right: 400px;
+}
+
+#C4 {
+
+    margin-left: 40px;
+    font-size: 300%;
+    font-style: italic;
+    text-decoration: none;
+}
+
+#C5 {
+    margin-left: 40px;
+    font-size: 300%;
+    font-style: italic;
+}
+
+
+.school {
+    margin-left: 40px;
+    margin-right: 60px;
+    font-family:cursive;
+    font-size: 150%;
+    font-style: italic;
+}
+
+#C6 {
+    margin-left: 40px;
+    font-size: 300%;
+    font-style: italic;
+}
+
+.uuul {
+    list-style: none;
+}
+
+.Email {
+    font-size: large;
+    margin-left: 40px;
+}
